@@ -39,6 +39,7 @@ gem 'jquery-rails'
 
 gem 'devise'
 gem 'haml'
+gem 'haml-rails'
 gem 'bson_ext'
 gem 'rails-backbone'
 
